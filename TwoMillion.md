@@ -62,6 +62,7 @@ Location: http://2million.htb/
 
 <img width="1920" height="815" alt="图片" src="https://github.com/user-attachments/assets/3af3d405-161f-4825-8992-14ad803c5db5" />
 
+
 目录枚举
 
 ```
